@@ -1,0 +1,14 @@
+{
+  "baby_chirp":   { "sounds": ["baby_chirp_1", "baby_chirp_2"] },
+  "static":       { "sounds": ["static_1", "static_2"] },
+  "interference": { "sounds": ["interference_1", "interference_2"] },
+  "alarm":        { "sounds": ["alarm"] },
+  "air_raid":     { "sounds": ["air_raid"] },
+  "voice":        { "sounds": ["voice_1", "voice_2", "voice_3"] },
+  "step":         { "sounds": ["step_1", "step_2"] },
+  "knock":        { "sounds": ["knock_1", "knock_2"] },
+  "window_bang":  { "sounds": ["window_bang"] },
+  "breath":       { "sounds": ["breath_1", "breath_2"] },
+  "transform":    { "sounds": ["transform"] },
+  "feast":        { "sounds": ["feast_1", "feast_2"] }
+}
